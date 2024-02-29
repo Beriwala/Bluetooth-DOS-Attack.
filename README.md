@@ -15,7 +15,7 @@ This project was created for educational purposes and personal use only.
 ```shell
 $ sudo apt update
 $ sudo apt install python3
-$ sudo git clone https://github.com/jieggiI/BLUETOOTH-DOS-ATTACK-SCRIPT.git
+$ sudo git clone https://github.com/Beriwala/Bluetooth-DOS-Attack..git
 $ cd BLUETOOTH-DOS-ATTACK-SCRIPT/
 $ python3 Bluetooth-DOS-Attack.py
 ```
